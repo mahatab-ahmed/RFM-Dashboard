@@ -29,6 +29,8 @@ Transactional Data: Used to calculate RFM values.
 🎯 Sales by Age Band (Top Age Group: 55–64)
 
 🗺️ Sales Distribution by Country using map visual
+<img width="940" height="568" alt="image" src="https://github.com/user-attachments/assets/8e14ca13-5e1c-467a-a436-3225f2ae440a" />
+
 
 2. Customer Segmentation (RFM Analysis)
 📌 Segments like: Promising, At Risk, Loyal, Lost, New Customers, etc.
@@ -43,13 +45,18 @@ Recency / Frequency / Monetary Value by Segment (bar charts)
 
 Used calculated RFM scores to categorize customers into 11 behavioral segments.
 
+<img width="1343" height="814" alt="image" src="https://github.com/user-attachments/assets/79eadc0b-d627-46aa-b231-ff078500fb47" />
+
 3. Customer Details Page
 Detailed customer-level table for lookup and analysis:
 
 Country, Email, Gender, Age, Segment, Sales, etc.
+<img width="1347" height="821" alt="image" src="https://github.com/user-attachments/assets/fd34ed44-2b29-4389-b036-f5bf4e9570ee" />
+
 
 4. RFM Description & Marketing Actions
 Text-based explanation of each segment with recommended campaign strategies to:
+<img width="1344" height="821" alt="image" src="https://github.com/user-attachments/assets/cdf8ab21-e964-4e97-86aa-61791755bcd5" />
 
 Increase loyalty
 
